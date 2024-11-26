@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8206dd10-2500-4b2d-94a2-0300c34611e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Triangle_Compiler-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAM/Disassembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAM/Instruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAM/Interpreter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAM/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TAM/ObjectFileHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/AST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ActualParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ActualParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/AnyTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ArrayAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ArrayExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ArrayTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/AssignCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/BinaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/BinaryOperatorDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/BoolTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CallCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CallExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CaseCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CaseExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CharTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CharacterExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/CharacterLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ConstActualParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ConstDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ConstFormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Declaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/DotVname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/EmptyActualParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/EmptyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/EmptyExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/EmptyFormalParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ErrorTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FieldTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ForCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FormalParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FuncActualParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FuncDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/FuncFormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Identifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/IfCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/IfExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/IntTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/IntegerExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/IntegerLiteral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/LetCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/LetExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/MultipleActualParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/MultipleArrayAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/MultipleFieldTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/MultipleFormalParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/MultipleRecordAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ProcActualParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ProcDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/ProcFormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/RecordAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/RecordExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/RecordTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SequentialCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SequentialDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SimpleTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SimpleVname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SingleActualParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SingleArrayAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SingleFieldTypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SingleFormalParameterSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SingleRecordAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/SubscriptVname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Terminal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/TypeDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/TypeDenoter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/UnaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/UnaryOperatorDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/VarActualParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/VarDeclaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/VarFormalParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/Vname.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/VnameExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/AbstractSyntaxTrees/WhileCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/Encoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/EqualityRoutine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/Field.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/Frame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/KnownAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/KnownRoutine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/KnownValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/ObjectAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/PrimitiveRoutine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/RuntimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/TypeRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/UnknownAddress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/UnknownRoutine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/CodeGenerator/UnknownValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/Compiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/ContextualAnalyzer/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/ContextualAnalyzer/IdEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/ContextualAnalyzer/IdentificationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/ErrorReporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/StdEnvironment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/SourceFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/SourcePosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/SyntaxError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/SyntacticAnalyzer/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/Drawer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/DrawerFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/DrawerFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/DrawerPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/DrawingTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/LayoutVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/Polygon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/TreeDrawer/Polyline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle/test.tri" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj.tam" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="5c921jyg" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pOOQNhxSb0BKcHjFcLDmR2RHLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Compiler.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/meli1/OneDrive/Documentos/GitHub/Triangle_Compiler",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.Compiler" />
+      <module name="Triangle" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\meli1\OneDrive\Documentos\GitHub\Triangle_Compiler\Proyecto compiladores\Triangle_Compiler-master\Triangle\src\Triangle\test.tri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Compiler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8206dd10-2500-4b2d-94a2-0300c34611e4" name="Changes" comment="" />
+      <created>1732633638210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732633638210</updated>
+      <workItem from="1732633641134" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

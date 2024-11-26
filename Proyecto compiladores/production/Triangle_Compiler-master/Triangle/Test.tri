@@ -1,0 +1,10 @@
+! Test of constant declaration, it works
+let
+    const t ~ 'a' in
+    begin
+        case t of
+            ('a' : put('a'))
+            ('b' : put('b'))
+            ('c' : put('c'))
+        end
+    end
