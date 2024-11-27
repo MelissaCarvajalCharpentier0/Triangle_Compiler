@@ -1,0 +1,6 @@
+let
+record
+ x : 3;
+ y : 4;
+ norm : func () ~ x*x + y*y
+end

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Proyecto compiladores/Triangle_Compiler-master/Triangle/Triangle.iml" filepath="$PROJECT_DIR$/Proyecto compiladores/Triangle_Compiler-master/Triangle/Triangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Triangle_Compiler.iml" filepath="$PROJECT_DIR$/.idea/Triangle_Compiler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Proyecto compiladores/Triangle_Compiler-master/Triangle_Compiler-master.iml" filepath="$PROJECT_DIR$/Proyecto compiladores/Triangle_Compiler-master/Triangle_Compiler-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Triangle_Compiler-master.iml" filepath="$PROJECT_DIR$/.idea/Triangle_Compiler-master.iml" />
     </modules>
   </component>
 </project>
